@@ -1,0 +1,5 @@
+Q1. Define an exception called "NoMatchException" that is thrown when a string is not equal to "India". Write a program that uses this exception.
+
+Q2. The daily maximum temperatures recorded in 10 cities during the month of January (for all 31 days) have been tabulated as follows. WAP to read the table elements into a two dimentional array temperature and to find the city and day corresponding to
+a) Highest temperature
+b) Lowest temperature
